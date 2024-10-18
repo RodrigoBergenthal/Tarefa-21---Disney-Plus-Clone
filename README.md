@@ -1,9 +1,9 @@
 https://tarefa-21-disney-plus-clone-o9ldw0r0k.vercel.app/
-![Disney+](./src/images/hero_desktop.jpeg) https://github.com/RodrigoBergenthal/Tarefa-21---Disney-Plus-Clone/blob/main/src/images/hero_desktop.jpeg
-Aqui está um exemplo de README em Markdown para o seu projeto:
+
 
 **Disney Plus Clone**
 =====================
+![Disney+](./projeto6.png) 
 
 Um clone do site da Disney+ feito com Gulp e Sass.
 
@@ -27,7 +27,7 @@ Um clone do site da Disney+ feito com Gulp e Sass.
 **Instalação e Uso**
 ---------------------
 
-1. Clone o repositório: `git clone https://github.com/[seu-username]/disney-plus-clone.git`
+1. Clone o repositório: `git clone https://github.com/[rodrigobergenthal]/Tarefa-21---Disney-Plus-Clone`
 2. Instale as dependências: `npm install` ou `yarn install`
 3. Execute a build: `gulp build`
 4. Abra o arquivo index.html no seu navegador favorito
